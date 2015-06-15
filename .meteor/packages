@@ -7,3 +7,7 @@
 meteor-platform
 autopublish
 insecure
+jquery
+materialize:materialize
+useraccounts:materialize
+accounts-password
